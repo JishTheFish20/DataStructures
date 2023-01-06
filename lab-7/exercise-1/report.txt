@@ -1,0 +1,6 @@
+Input Size  Selection Sort  Insertion Sort  Quick Sort
+1K          1ms             3ms               1ms
+10K         345ms           650ms             250ms
+100K        315000ms        70000ms           28332ms
+1M          -               -               -
+10M         -               -               -        
